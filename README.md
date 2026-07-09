@@ -33,7 +33,7 @@ Recommendation algorithms decide *what* you see. Consumption agents decide *how*
 
 And four properties of the *agent*: it adds no information; its input includes the person's current state; its loyalty runs to the consumer; and it has **the right to say no** — to filter, block, or advise you not to look. Platform-owned agents structurally fail the last two.
 
-By this test: the spam filter was the first mass-deployed consumption agent (all four properties, minimal intelligence). TikTok's For You feed is a consumption agent — *owned by the platform, not by you*. NotebookLM is close, but covers only transformation. The complete, resident, user-loyal stack — selection + transformation + orchestration — does not yet exist, commercially, in open source, or in academia.
+By this test: the spam filter is the lineage's most familiar mass deployment — an heir, not a founder: standing-profile filtering runs back through Malone's Information Lens to Luhn's Selective Dissemination of Information (1958). TikTok's For You feed is a consumption agent — *owned by the platform, not by you*. NotebookLM is close, but covers only transformation. The complete, resident, user-loyal stack — selection + transformation + orchestration — does not yet exist, commercially, in open source, or in academia.
 
 ## What this is not
 
@@ -45,7 +45,7 @@ By this test: the spam filter was the first mass-deployed consumption agent (all
 
 Whoever pays the agent decides what it optimizes when it renders the world for you. Ad-funded rendering layers degrade into slot machines — we ran that experiment for twenty years; it is called the feed. User-funded, on-device, auditable is the only soil where an agent loyal to *you* can grow — and it is precisely the thing attention-monetizing incumbents structurally cannot build.
 
-Money is only half of it. An agent that learns from your behavioral signals alone (what you tap, what you skip) is running the same gradient as engagement optimization, whoever pays. Loyalty has to be audited on **two channels: where the money flows, and what signals the model learns from.**
+Money is only half of it. An agent that learns from your behavioral signals alone (what you tap, what you skip) is running the same gradient as engagement optimization, whoever pays. And most agents will *rent* their judgment from a foundation-model vendor — dispositions, content policies, and commercial relationships riding in on the weights. Loyalty has to be audited on **three channels: where the money flows, what signals the model learns from, and whose model does the interpreting.**
 
 ## The handbook
 
@@ -54,7 +54,7 @@ The full argument, in seven parts — adapted into English from an evidence-grad
 | | Part | What it covers |
 |---|---|---|
 | 0 | [The Twelve Takeaways](handbook/00-twelve-takeaways.md) | the five-minute layer — every load-bearing claim, graded |
-| 1 | [The Concept](handbook/01-the-concept.md) | definition, the three-test/four-trait criterion, the capability stack, three metaphors, loyalty (four archetypes, two channels), boundaries, the name |
+| 1 | [The Concept](handbook/01-the-concept.md) | definition, the three-test/four-trait criterion, the capability stack, three metaphors, loyalty (four archetypes, three channels), boundaries, the name |
 | 2 | [The Case](handbook/02-the-case.md) | eighty years of lineage, why now, the empirical base, the naming vacancy |
 | 3 | [The Landscape](handbook/03-the-landscape.md) | the product map, the casualty list, open-source bricks, the academic map, protocols & economics |
 | 4 | [Risks and Red Lines](handbook/04-risks-and-red-lines.md) | eleven risks (each: evidence + counter = differentiation), eight non-negotiables |
