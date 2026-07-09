@@ -2,7 +2,10 @@ cff-version: 1.2.0
 message: "If you use or reference this framework, please cite it as below."
 title: "Consumption Agents: The Missing Half of the AI Agent Landscape"
 authors:
-  - name: "Octo-o-o-o"
+  - family-names: "Wang"
+    given-names: "Yixiao"
+    email: "wyxiao59@gmail.com"
+    affiliation: "Independent Researcher"
 date-released: "2026-07-09"
 url: "https://github.com/Octo-o-o-o/consumption-agent"
 repository-code: "https://github.com/Octo-o-o-o/consumption-agent"

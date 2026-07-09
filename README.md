@@ -70,10 +70,10 @@ Reading paths: 60 seconds — this page. Five minutes — Part 0. The whole case
 
 ## Citation
 
-If you reference this framing, please cite:
+If you reference this framing, please cite (or use GitHub's "Cite this repository" button):
 
 ```
-Consumption Agents: The Missing Half of the AI Agent Landscape.
+Yixiao Wang. Consumption Agents: The Missing Half of the AI Agent Landscape.
 https://github.com/Octo-o-o-o/consumption-agent, first published 2026-07-09.
 ```
 
