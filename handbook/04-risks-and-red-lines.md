@@ -46,7 +46,7 @@
 ## R8 · Platform recapture and the gatekeeper paradox【happening】
 
 - **Evidence chain**: entries — every free "your agent" is platform-subsidized; memory layer — Limitless→Meta (2025-12), Bee→Amazon (2025-07) ✅; mindshare — the local-language term already captured by commerce/companionship; capability — platform recommenders going generative (HSTU +12.4% ◎).
-- **The paradox** ○: if consumption agents win, they are the new gatekeepers — owning the last inch of the demand side; producers start courting the agent (GEO experiments: +115% visibility from adding statistics ◐ — writing for machine readers has begun); whatever falls off the *agent shelf* is never seen by a human at all. Aggregator logic doesn't die; it changes hosts.
+- **The paradox** ○: if consumption agents win, they are the new gatekeepers — owning the last inch of the demand side; producers start courting the agent (GEO experiments: up to +115% visibility for lower-ranked sites via source-citation tactics, simulation setting — an earlier version of this page misattributed the figure to statistics-addition, corrected 2026-07-09 ◐ — writing for machine readers has begun); whatever falls off the *agent shelf* is never seen by a human at all. Aggregator logic doesn't die; it changes hosts.
 - **Counter**: open source + forkable, and a portable taste passport — **the only structural insurance against history repeating**; auditable loyalty; middleware-style regulatory advocacy (mandated API openness; algorithmic choice frameworks extend naturally to agents); prefer open protocols and licensed supply over gray scraping.
 
 ## R9 · Responsibility and paternalism【design dilemma】

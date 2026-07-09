@@ -51,7 +51,7 @@ In the Chinese-language world, the local term is captured by shopping agents and
 2. **Rendering fidelity** — no benchmark for semantic preservation across form transformations (text→audio→diagram→interactive).
 3. **A taxonomy of "do not transform"** — form-preserving content classification (genre + author declaration + user override) is handled by no one.
 4. **Cross-source user models** — a standard schema for taste/knowledge-state/attention-budget plus an edge-first federated privacy architecture: both blank.
-5. **Formalizing serendipity** — Kevin Kelly's fourth ingredient ("what I don't like but should learn to appreciate") has no explicit algorithmic literature.
+5. **Formalizing serendipity** — the hardest ingredient of Kevin Kelly's ideal filter ("stuff I don't like but would like to like," extended to what one dislikes but should learn to like) is formalized nowhere — recommender-systems serendipity research stops where taste formation begins; the algorithmic literature.
 6. **Autonomous state sensing** — audience adaptation today is prompt-declared (the GenUI paper's own stated limit); inferring time/attention/device/cognitive load is essentially unstudied.
 7. **Three communities that don't cite each other** — RecSys (L1), NLP summarization (L2), and HCI interfaces (L2/L3) are working the same problem without shared references; the integration layer is itself a publishable gap.
 
