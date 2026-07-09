@@ -45,12 +45,26 @@ Whoever pays the agent decides what it optimizes when it renders the world for y
 
 Money is only half of it. An agent that learns from your behavioral signals alone (what you tap, what you skip) is running the same gradient as engagement optimization, whoever pays. Loyalty has to be audited on **two channels: where the money flows, and what signals the model learns from.**
 
+## The handbook
+
+The full argument, in seven parts — adapted into English from an evidence-graded research base (six parallel research batches, adversarial verification, a falsification ledger; facts as of 2026-07-09). Each part is self-contained and independently citable:
+
+| | Part | What it covers |
+|---|---|---|
+| 0 | [The Twelve Takeaways](handbook/00-twelve-takeaways.md) | the five-minute layer — every load-bearing claim, graded |
+| 1 | [The Concept](handbook/01-the-concept.md) | definition, the three-test/four-trait criterion, the capability stack, three metaphors, loyalty (four archetypes, two channels), boundaries, the name |
+| 2 | [The Case](handbook/02-the-case.md) | eighty years of lineage, why now, the empirical base, the naming vacancy |
+| 3 | [The Landscape](handbook/03-the-landscape.md) | the product map, the casualty list, open-source bricks, the academic map, protocols & economics |
+| 4 | [Risks and Red Lines](handbook/04-risks-and-red-lines.md) | eleven risks (each: evidence + counter = differentiation), eight non-negotiables |
+| 5 | [Open Territory](handbook/05-open-territory.md) | seven vacancies, attention-ROI metrics, the artifact contract, seven research gaps |
+| 6 | [Architecture Notes](handbook/06-architecture-notes.md) | the render function, the semantic materialization layer, direct vs. paired mode, a draft artifact contract |
+
+Reading paths: 60 seconds — this page. Five minutes — Part 0. The whole case — Parts 1→6.
+
 ## Status & roadmap
 
-This README is the first public claim on the category. Behind it sits a full handbook — an 80-year intellectual lineage (Memex → interface agents → the Daily Me → generative UI), an evidence-graded research base with adversarial verification, a product map with a casualty list, and a risk register — currently in Chinese, being prepared for English release.
-
-- [x] Name the category, state the test *(this document)*
-- [ ] Long-form essay (English)
+- [x] Name the category, state the test *(this page, 2026-07-09)*
+- [x] The handbook — full English adaptation in seven parts *(2026-07-09)*
 - [ ] Position paper (interface-agent + sensemaking lineage)
 - [ ] A small public benchmark for consumption quality (attention ROI, cross-modal fidelity, form-preservation)
 
