@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use or reference this framework, please cite it as below."
+title: "Consumption Agents: The Missing Half of the AI Agent Landscape"
+authors:
+  - name: "Octo-o-o-o"
+date-released: "2026-07-09"
+url: "https://github.com/Octo-o-o-o/consumption-agent"
+repository-code: "https://github.com/Octo-o-o-o/consumption-agent"
+license: CC-BY-4.0
+keywords:
+  - consumption agent
+  - production agent
+  - AI agents
+  - attention economy
+  - generative UI
+  - user agent
+abstract: >-
+  A typology for the missing half of the AI agent landscape: production
+  agents change the state of the world; consumption agents change your
+  interface to it. States the three-test/four-trait criterion, an
+  eighty-year lineage, the empirical base, a risk register with eight
+  red lines, and a research agenda.
