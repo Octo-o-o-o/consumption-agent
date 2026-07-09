@@ -7,7 +7,7 @@
 > Production agents change the state of the world.
 > Consumption agents change your interface to it.
 
-*First published: 2026-07-09. This repository names and maps a category that, as of four independent literature searches (July 2026), no one has yet named.*
+*First published: 2026-07-09. This repository names and maps a category that, as of four search rounds (July 2026; provenance and limits disclosed in the ledger), no one has yet named.*
 
 ---
 
@@ -60,6 +60,7 @@ The full argument, in seven parts — adapted into English from an evidence-grad
 | 4 | [Risks and Red Lines](handbook/04-risks-and-red-lines.md) | eleven risks (each: evidence + counter = differentiation), eight non-negotiables |
 | 5 | [Open Territory](handbook/05-open-territory.md) | seven vacancies, attention-ROI metrics, the artifact contract, seven research gaps |
 | 6 | [Architecture Notes](handbook/06-architecture-notes.md) | the render function, the semantic materialization layer, direct vs. paired mode, a draft artifact contract |
+| 7 | [The Verification Ledger](handbook/07-verification-ledger.md) | the public falsification record: 12 claims that died, how they died, and the disciplines each death taught |
 
 Reading paths: 60 seconds — this page. Five minutes — Part 0. The whole case — Parts 1→6.
 
