@@ -4,9 +4,11 @@ title: "Consumption Agents: The Missing Half of the AI Agent Landscape"
 authors:
   - family-names: "Wang"
     given-names: "Yixiao"
+    orcid: "https://orcid.org/0009-0000-9599-480X"
     email: "wyxiao59@gmail.com"
     affiliation: "Independent Researcher"
 date-released: "2026-07-09"
+doi: "10.5281/zenodo.21274081"
 url: "https://github.com/Octo-o-o-o/consumption-agent"
 repository-code: "https://github.com/Octo-o-o-o/consumption-agent"
 license: CC-BY-4.0

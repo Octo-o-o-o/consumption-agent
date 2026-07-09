@@ -1,5 +1,7 @@
 # Consumption Agents
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21274081.svg)](https://doi.org/10.5281/zenodo.21274081)
+
 **The missing half of the AI agent landscape.**
 
 > Production agents change the state of the world.
@@ -74,7 +76,8 @@ If you reference this framing, please cite (or use GitHub's "Cite this repositor
 
 ```
 Yixiao Wang. Consumption Agents: The Missing Half of the AI Agent Landscape.
-https://github.com/Octo-o-o-o/consumption-agent, first published 2026-07-09.
+DOI: 10.5281/zenodo.21274081. https://github.com/Octo-o-o-o/consumption-agent,
+first published 2026-07-09.
 ```
 
 ---
