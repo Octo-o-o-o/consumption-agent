@@ -33,7 +33,7 @@ Everyone builds compression and speed; no one builds *helping you go slower, bet
 
 ### 1.6 Group consumption / common ground
 
-The same substance rendered per family member or per team role — the child gets the diagram, the engineer gets the data, the manager gets the audio — **with a shared anchor preserved so everyone can still discuss the same thing**. Both a feature and the product-level answer to "personalization erodes the public sphere" (R3). The 1994 precedent: Fishwrap's "Daily We."
+The same substance rendered per family member or per team role — the child gets the diagram, the engineer gets the data, the manager gets the audio — **with a shared anchor preserved so everyone can still discuss the same thing**. Both a feature and the product-level answer to "personalization erodes the public sphere" (R3). The 1994 precedent: Fishwrap's shared community page — the pattern Sunstein later named "the Daily We."
 
 ### 1.7 The non-English niche
 

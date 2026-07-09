@@ -18,7 +18,7 @@
 
 - **Evidence**: the Sunstein 2001 → Pariser 2011 lineage ✅; CHI 2024 ◐ — conversational search **even when designed neutral** produces more confirmatory querying and stronger polarization than conventional search; sycophantic style aggravates, challenging style mitigates.
 - **The deeper worry this framework adds** ○: once *form* is personalized too, even "we read the same article" stops being true — common knowledge erodes one layer deeper than link-level filtering. (The social effects of form-personalization are unstudied — a research gap.)
-- **Counter**: a serendipity budget as a first-class parameter (Kevin Kelly's ideal-filter recipe, item four: *things I don't like but should learn to appreciate*); active counter-perspective injection (Particle's Opposite Sides is a working UI); periodic "information diet checkups"; a **common-ground mode** for groups (everyone gets their own rendering *plus* a shared anchor — Fishwrap's "Daily We" page solved this in 1994); personalization intensity as a user-visible dial (Negroponte drew it in 1995).
+- **Counter**: a serendipity budget as a first-class parameter (Kevin Kelly's ideal-filter recipe, item four: *things I don't like but should learn to appreciate*); active counter-perspective injection (Particle's Opposite Sides is a working UI); periodic "information diet checkups"; a **common-ground mode** for groups (everyone gets their own rendering *plus* a shared anchor — Fishwrap's shared community page solved this in 1994 — the pattern Sunstein later named "the Daily We"); personalization intensity as a user-visible dial (Negroponte drew it in 1995).
 
 ## R4 · Cognitive offloading and taste atrophy【structural; hardest to counter】
 
